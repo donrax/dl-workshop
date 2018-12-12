@@ -1,7 +1,7 @@
 # dl-workshop
 Intuitive deep-learning crash course
 
-These are the slides from the [Workshop: Building your first Convolutional Neural Network ](https://www.meetup.com/Deep-Learning-Ljubljana/events/256369808/) 
+These are the slides from [Workshop: Building your first Convolutional Neural Network ](https://www.meetup.com/Deep-Learning-Ljubljana/events/256369808/) 
 
 This introductory workshop will show you – a very beginner – how to build and train your very first Convolutional Neural Network. We will go over basic deep learning theory and build a network that can classify grayscale images of fashion items into various categories. The workshop aims to show you basic practical skills and tools needed to start applying deep learning to your own image classification problems right away.
 
